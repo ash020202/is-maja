@@ -1,0 +1,22 @@
+{
+  "name": "is-maja",
+  "version": "1.0.0",
+  "description": "check value is \"maja\" return \"vijay\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash020202/is-maja.git"
+  },
+  "keywords": [
+    "is-maja"
+  ],
+  "author": "vimalkanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ash020202/is-maja/issues"
+  },
+  "homepage": "https://github.com/ash020202/is-maja#readme"
+}
